@@ -1,4 +1,5 @@
 This BERT-based model I created classifies a tweet into municipal relevant or municipal irrelevant categories for Politus Analytics. 
+
 F1 Macro : 0.95
 
 Precision: 0.95
